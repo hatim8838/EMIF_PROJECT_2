@@ -1,0 +1,9 @@
+Asset,Period,DM stat (QLIKE),Preferred model
+S&P500,Pre-COVID,-4.549,Gaussian
+S&P500,Post-COVID,-2.047,Gaussian
+Eurostoxx 50,Pre-COVID,-2.879,Gaussian
+Eurostoxx 50,Post-COVID,-3.727,Gaussian
+Gold,Pre-COVID,-0.114,Gaussian
+Gold,Post-COVID,0.854,Student-t
+US IG Bonds,Pre-COVID,2.269,Student-t
+US IG Bonds,Post-COVID,-8.23,Gaussian
