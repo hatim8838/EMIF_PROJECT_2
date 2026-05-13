@@ -1,0 +1,16 @@
+Asset class,Pair,DCC corr Pre-COVID,DCC corr Post-COVID,Change
+Equities,S&P500 / Eurostoxx 50,0.487,0.5,0.013
+Equities,S&P500 / Hang Seng,0.151,0.141,-0.009
+Equities,S&P500 / MSCI EM,0.381,0.322,-0.059
+Equities,S&P500 / SMI,0.416,0.4,-0.015
+Equities,Eurostoxx 50 / Hang Seng,0.329,0.308,-0.021
+Equities,Eurostoxx 50 / MSCI EM,0.486,0.471,-0.015
+Equities,Eurostoxx 50 / SMI,0.757,0.746,-0.011
+Equities,Hang Seng / MSCI EM,0.634,0.765,0.13
+Equities,Hang Seng / SMI,0.296,0.23,-0.065
+Equities,MSCI EM / SMI,0.435,0.377,-0.058
+Commodities,Oil futures / Gold,0.167,0.132,-0.035
+FX,EURUSD / USDJPY,-0.361,-0.449,-0.088
+FX,EURUSD / USDCHF,-0.764,-0.759,0.005
+FX,USDJPY / USDCHF,0.461,0.531,0.071
+Credit,US IG Bonds / US HY Bonds,0.283,0.387,0.104
