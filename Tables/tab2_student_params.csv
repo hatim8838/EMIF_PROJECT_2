@@ -1,0 +1,25 @@
+Asset class,Asset,Period,alpha+beta,nu
+Equities,S&P500,Pre-COVID,0.9716,6.07
+Equities,S&P500,Post-COVID,0.9751,6.15
+Equities,Eurostoxx 50,Pre-COVID,0.9882,6.06
+Equities,Eurostoxx 50,Post-COVID,0.9588,4.62
+Equities,Hang Seng,Pre-COVID,0.9879,6.08
+Equities,Hang Seng,Post-COVID,0.9351,5.59
+Equities,MSCI EM,Pre-COVID,0.9906,6.3
+Equities,MSCI EM,Post-COVID,0.9091,6.0
+Equities,SMI,Pre-COVID,0.9524,6.01
+Equities,SMI,Post-COVID,0.9117,6.0
+Commodities,Oil futures,Pre-COVID,0.9937,6.03
+Commodities,Oil futures,Post-COVID,0.9561,5.41
+Commodities,Gold,Pre-COVID,0.9875,4.52
+Commodities,Gold,Post-COVID,0.9384,5.98
+FX,EURUSD,Pre-COVID,1.0,6.1
+FX,EURUSD,Post-COVID,0.9846,6.0
+FX,USDJPY,Pre-COVID,0.9921,5.84
+FX,USDJPY,Post-COVID,0.9925,5.98
+Credit,US IG Bonds,Pre-COVID,0.9883,6.0
+Credit,US IG Bonds,Post-COVID,0.9926,6.0
+Credit,US HY Bonds,Pre-COVID,1.0,6.0
+Credit,US HY Bonds,Post-COVID,0.9894,5.9
+FX,USDCHF,Pre-COVID,1.0,6.0
+FX,USDCHF,Post-COVID,0.8306,6.0

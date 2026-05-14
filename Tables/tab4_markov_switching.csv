@@ -1,0 +1,5 @@
+Asset class,Pair,μ low-corr state,μ high-corr state,Avg duration high (w),P(high) pre-COVID,P(high) post-COVID,Change
+Equities,S&P500 / Eurostoxx 50,0.353,0.646,N/A,0.574,0.577,0.003
+Commodities,S&P500 / Gold,-0.265,0.07,110.3,0.617,0.686,0.069
+Credit,S&P500 / US IG Bonds,-0.307,0.225,N/A,0.41,0.747,0.337
+FX,S&P500 / EURUSD,-0.166,0.272,N/A,0.338,0.779,0.442

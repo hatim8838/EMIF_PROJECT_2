@@ -1,0 +1,5 @@
+Asset class,Pair,N breaks,Break dates,COVID detected
+Equities,S&P500 / Eurostoxx 50,3,"1995-03-03, 2009-11-27, 2017-06-16",✗
+Commodities,S&P500 / Gold,3,"2004-05-21, 2013-11-15, 2021-05-07",✗
+Credit,S&P500 / US IG Bonds,3,"1993-09-10, 1998-05-29, 2022-06-03",✗
+FX,S&P500 / EURUSD,3,"2009-03-06, 2013-09-20, 2021-05-07",✗
