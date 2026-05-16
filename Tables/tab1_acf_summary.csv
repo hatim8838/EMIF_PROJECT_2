@@ -1,13 +1,6 @@
-Asset class,Asset,ACF(1) Pre-COVID,ACF(1) Post-COVID,Change
-Equities,S&P500,0.546,0.144,↓
-Equities,Eurostoxx 50,0.105,0.144,↑
-Equities,Hang Seng,0.103,0.085,↓
-Equities,MSCI EM,0.135,0.202,↑
-Equities,SMI,0.232,0.475,↑
-Commodities,Oil futures,0.376,0.266,↓
-Commodities,Gold,0.167,0.103,↓
-FX,EURUSD,0.13,0.148,↑
-FX,USDJPY,0.134,0.082,↓
-Credit,US IG Bonds,0.481,0.177,↓
-Credit,US HY Bonds,0.23,0.245,↑
-FX,USDCHF,0.013,0.109,↑
+Asset,ACF(1) r2 Pre,ACF(1) r2 Post,Change
+S&P500,0.546,0.144,down
+Eurostoxx 50,0.105,0.144,up
+Hang Seng,0.103,0.085,down
+MSCI EM,0.135,0.202,up
+SMI,0.232,0.475,up

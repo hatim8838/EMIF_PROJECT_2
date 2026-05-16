@@ -1,0 +1,11 @@
+Pair,r pre,r post,Delta r,Fisher z,p-value,alpha (Bonf.),Significant (Bonf.)
+S&P500 / Eurostoxx 50,0.627,0.524,-0.104,4.937,0.0,0.005,Yes
+S&P500 / Hang Seng,0.227,0.138,-0.089,2.922,0.0035,0.005,Yes
+S&P500 / MSCI EM,0.496,0.296,-0.2,7.59,0.0,0.005,Yes
+S&P500 / SMI,0.546,0.417,-0.128,5.326,0.0,0.005,Yes
+Eurostoxx 50 / Hang Seng,0.382,0.321,-0.061,2.204,0.0275,0.005,No
+Eurostoxx 50 / MSCI EM,0.609,0.489,-0.12,5.495,0.0,0.005,Yes
+Eurostoxx 50 / SMI,0.789,0.786,-0.003,0.246,0.8059,0.005,No
+Hang Seng / MSCI EM,0.801,0.819,0.018,-1.632,0.1027,0.005,No
+Hang Seng / SMI,0.353,0.251,-0.103,3.587,0.0003,0.005,Yes
+MSCI EM / SMI,0.537,0.409,-0.128,5.247,0.0,0.005,Yes

@@ -1,25 +1,11 @@
-Asset class,Asset,Period,DM stat (MSE),DM stat (QLIKE),Preferred (MSE),Preferred (QLIKE)
-Equities,S&P500,Pre-COVID,1.085,-4.549,Student-t,Gaussian
-Equities,S&P500,Post-COVID,-3.022,-2.047,Gaussian,Gaussian
-Equities,Eurostoxx 50,Pre-COVID,-4.718,-2.879,Gaussian,Gaussian
-Equities,Eurostoxx 50,Post-COVID,-1.999,-3.727,Gaussian,Gaussian
-Equities,Hang Seng,Pre-COVID,-3.903,-3.622,Gaussian,Gaussian
-Equities,Hang Seng,Post-COVID,-0.171,0.805,Gaussian,Student-t
-Equities,MSCI EM,Pre-COVID,1.468,2.499,Student-t,Student-t
-Equities,MSCI EM,Post-COVID,2.137,2.352,Student-t,Student-t
-Equities,SMI,Pre-COVID,-1.997,-0.416,Gaussian,Gaussian
-Equities,SMI,Post-COVID,1.927,2.623,Student-t,Student-t
-Commodities,Oil futures,Pre-COVID,-6.55,-2.516,Gaussian,Gaussian
-Commodities,Oil futures,Post-COVID,4.845,3.182,Student-t,Student-t
-Commodities,Gold,Pre-COVID,2.959,-0.114,Student-t,Gaussian
-Commodities,Gold,Post-COVID,-1.316,0.854,Gaussian,Student-t
-FX,EURUSD,Pre-COVID,-6.186,-5.424,Gaussian,Gaussian
-FX,EURUSD,Post-COVID,2.209,2.655,Student-t,Student-t
-FX,USDJPY,Pre-COVID,7.468,1.951,Student-t,Student-t
-FX,USDJPY,Post-COVID,1.327,-1.548,Student-t,Gaussian
-Credit,US IG Bonds,Pre-COVID,2.009,2.269,Student-t,Student-t
-Credit,US IG Bonds,Post-COVID,-7.678,-8.23,Gaussian,Gaussian
-Credit,US HY Bonds,Pre-COVID,,,Gaussian,Gaussian
-Credit,US HY Bonds,Post-COVID,-0.415,-0.359,Gaussian,Gaussian
-FX,USDCHF,Pre-COVID,17.116,16.223,Student-t,Student-t
-FX,USDCHF,Post-COVID,1.882,2.152,Student-t,Student-t
+Asset,Period,DM stat (MSE),DM stat (QLIKE),Preferred (MSE),Preferred (QLIKE)
+S&P500,Pre-COVID,0.344,-0.523,Student-t,Gaussian
+S&P500,Post-COVID,-0.737,-0.428,Gaussian,Gaussian
+Eurostoxx 50,Pre-COVID,-0.23,-0.43,Gaussian,Gaussian
+Eurostoxx 50,Post-COVID,0.648,0.235,Student-t,Student-t
+Hang Seng,Pre-COVID,-1.631,-1.366,Gaussian,Gaussian
+Hang Seng,Post-COVID,-0.083,0.48,Gaussian,Student-t
+MSCI EM,Pre-COVID,1.263,0.356,Student-t,Student-t
+MSCI EM,Post-COVID,0.522,0.683,Student-t,Student-t
+SMI,Pre-COVID,0.297,0.81,Student-t,Student-t
+SMI,Post-COVID,0.434,-0.179,Student-t,Gaussian

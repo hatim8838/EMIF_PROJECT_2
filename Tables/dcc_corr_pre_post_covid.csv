@@ -1,0 +1,8 @@
+Pair,Pre-COVID avg corr,Post-COVID avg corr,Change
+Equity / IG Bonds (flight-to-quality),-0.24,0.049,0.289
+Equity / HY Bonds (credit risk),0.461,0.558,0.096
+Equity / Gold (safe haven),-0.029,0.093,0.122
+Equity / Oil (growth proxy),0.28,0.193,-0.088
+S&P 500 / Eurostoxx (global co-movement),0.584,0.524,-0.06
+S&P 500 / Hang Seng (US-Asia linkage),0.199,0.156,-0.044
+IG / HY Bonds (credit spread),0.106,0.37,0.263

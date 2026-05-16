@@ -1,0 +1,16 @@
+Asset,Period,ADF stat,ADF p-val,ADF reject H0,KPSS stat,KPSS p-val,Stationary (5%)
+S&P500,Full sample,-24.708,0.0,True,0.113,0.1,Yes
+S&P500,Pre-COVID,-13.686,0.0,True,0.17,0.1,Yes
+S&P500,Post-COVID,-12.91,0.0,True,0.242,0.1,Yes
+Eurostoxx 50,Full sample,-42.996,0.0,True,0.095,0.1,Yes
+Eurostoxx 50,Pre-COVID,-51.44,0.0,True,0.097,0.1,Yes
+Eurostoxx 50,Post-COVID,-25.531,0.0,True,0.112,0.1,Yes
+Hang Seng,Full sample,-41.514,0.0,True,0.206,0.1,Yes
+Hang Seng,Pre-COVID,-19.328,0.0,True,0.053,0.1,Yes
+Hang Seng,Post-COVID,-20.188,0.0,True,0.133,0.1,Yes
+MSCI EM,Full sample,-15.286,0.0,True,0.057,0.1,Yes
+MSCI EM,Pre-COVID,-18.742,0.0,True,0.073,0.1,Yes
+MSCI EM,Post-COVID,-24.174,0.0,True,0.256,0.1,Yes
+SMI,Full sample,-42.891,0.0,True,0.142,0.1,Yes
+SMI,Pre-COVID,-25.038,0.0,True,0.063,0.1,Yes
+SMI,Post-COVID,-17.114,0.0,True,0.111,0.1,Yes

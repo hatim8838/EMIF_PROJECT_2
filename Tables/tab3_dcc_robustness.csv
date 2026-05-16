@@ -1,0 +1,6 @@
+Pair,"Pre (0.02,0.97)","Post (0.02,0.97)","Pre (0.05,0.94)","Post (0.05,0.94)",Direction consistent
+S&P500/Eurostoxx 50,0.585,0.522,0.591,0.51,Yes
+S&P500/Hang Seng,0.2,0.154,0.205,0.143,Yes
+S&P500/MSCI EM,0.418,0.323,0.423,0.302,Yes
+Eurostoxx 50/SMI,0.757,0.739,0.759,0.731,Yes
+Hang Seng/MSCI EM,0.784,0.815,0.779,0.818,Yes

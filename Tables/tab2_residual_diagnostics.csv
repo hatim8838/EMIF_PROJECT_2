@@ -1,0 +1,11 @@
+Asset,Period,LB(10) stat z2,LB(10) p-val,Model OK (5%)
+S&P500,Pre-COVID,4.33,0.9312,Yes
+S&P500,Post-COVID,8.84,0.5472,Yes
+Eurostoxx 50,Pre-COVID,8.04,0.625,Yes
+Eurostoxx 50,Post-COVID,4.68,0.9113,Yes
+Hang Seng,Pre-COVID,10.48,0.399,Yes
+Hang Seng,Post-COVID,0.76,1.0,Yes
+MSCI EM,Pre-COVID,16.51,0.0858,Yes
+MSCI EM,Post-COVID,4.1,0.9428,Yes
+SMI,Pre-COVID,10.32,0.4132,Yes
+SMI,Post-COVID,13.84,0.1803,Yes

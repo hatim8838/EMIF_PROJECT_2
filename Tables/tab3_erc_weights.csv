@@ -1,13 +1,6 @@
-,Asset class,Pre-COVID avg weight,Post-COVID avg weight,Change
-S&P500,Equities,0.047,0.024,-0.023
-Eurostoxx 50,Equities,0.031,0.022,-0.009
-Hang Seng,Equities,0.033,0.022,-0.011
-MSCI EM,Equities,0.037,0.025,-0.012
-SMI,Equities,0.036,0.031,-0.005
-Oil futures,Commodities,0.028,0.016,-0.012
-Gold,Commodities,0.109,0.062,-0.047
-EURUSD,FX,0.04,0.206,0.166
-USDJPY,FX,0.097,0.115,0.018
-US IG Bonds,Credit,0.211,0.144,-0.066
-US HY Bonds,Credit,0.205,0.075,-0.13
-USDCHF,FX,0.126,0.258,0.132
+,Pre-COVID avg,Post-COVID avg,Change
+S&P500,0.255,0.212,-0.043
+Eurostoxx 50,0.168,0.173,0.005
+Hang Seng,0.178,0.172,-0.006
+MSCI EM,0.198,0.198,-0.0
+SMI,0.2,0.245,0.045
