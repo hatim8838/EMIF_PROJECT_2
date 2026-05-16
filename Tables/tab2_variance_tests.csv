@@ -1,6 +1,0 @@
-Asset,Var Pre (ann%),Var Post (ann%),Levene stat,Levene p-val,F-stat,F p-val,Var changed (5%)
-S&P500,16.29,17.86,25.274,0.0,0.832,0.0,Yes
-Eurostoxx 50,20.12,18.38,4.201,0.0405,1.198,0.0001,Yes
-Hang Seng,17.72,23.82,85.777,0.0,0.554,0.0,Yes
-MSCI EM,15.68,16.68,4.307,0.038,0.883,0.0051,Yes
-SMI,15.17,13.97,2.251,0.1336,1.18,0.0002,No

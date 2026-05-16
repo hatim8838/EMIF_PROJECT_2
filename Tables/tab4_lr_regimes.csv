@@ -1,5 +1,0 @@
-Pair,LL (1-state),LL (2-state),LR stat,p-val (Davies UB),2 states justified
-S&P500 / Eurostoxx 50,412.75,925.08,1024.666,0.0,Yes
-S&P500 / Hang Seng,372.29,699.67,654.763,0.0,Yes
-S&P500 / MSCI EM,367.01,752.94,771.867,0.0,Yes
-Eurostoxx 50 / SMI,697.74,1073.2,750.917,0.0,Yes
